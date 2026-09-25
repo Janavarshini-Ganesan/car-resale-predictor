@@ -1,6 +1,6 @@
 __pycache__/
 *.pyc
-*.pkl
+
 backend/correlation_heatmap.png
 backend/feature_importance.json
 .venv/
